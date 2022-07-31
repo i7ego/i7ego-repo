@@ -1,0 +1,35 @@
+body {
+    background-color: #fff;
+    color: #020303
+}
+
+.box1 {
+    position: relative;
+    width: 220px;
+    height: 220px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 16px 14px 20px #0000008c;
+}
+.welcome h1 {
+    text-align: center;
+    color: #020303;
+    text-shadow: 16px 14px 20px #020303;
+}
+h3 {
+    color: red;
+}
+.box2 {
+    position: relative;
+    width: 220px;
+    height: 220px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 16px 14px 20px #0000008c;
+}
